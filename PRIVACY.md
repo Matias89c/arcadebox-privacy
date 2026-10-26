@@ -4,7 +4,7 @@
 
 ## Aplicación y contacto
 
-Esta política describe el tratamiento de datos de ArcadeBox para Android (paquete es.arcadebox). El editor de ArcadeBox atiende las consultas de privacidad en mcosta.legal@gmail.com. No es necesario crear una cuenta de ArcadeBox para organizar y ejecutar la biblioteca local.
+Esta política describe el tratamiento de datos de ArcadeBox para Android. El identificador previsto para su edición de Google Play es com.arcadebox.app; las compilaciones personales anteriores utilizan es.arcadebox. El editor de ArcadeBox atiende las consultas de privacidad en mcosta.legal@gmail.com. No es necesario crear una cuenta de ArcadeBox para organizar y ejecutar la biblioteca local.
 
 ## Datos que se guardan en el dispositivo
 
